@@ -1,5 +1,5 @@
 # MiniProjects
-This repo contains MiniProjects that I create , when I was learning WebDev....
+This repo contains MiniProjects that I created, when I was learning WebDev....
 
 Sign-Up Page:
 
