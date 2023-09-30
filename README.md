@@ -8,3 +8,8 @@ Sign-Up Page:
 Gallery Page:
 
 ![Screenshot (46)](https://github.com/musabrayan/MiniProjects/assets/109735301/1ed11687-a800-4a59-8b89-33002237cf17)
+
+Sidcup Famil Golf Landing Page Clone:
+
+https://github.com/musabrayan/MiniProjects/assets/109735301/fbefa132-9d5d-44b9-a38d-c26d235268bc
+
