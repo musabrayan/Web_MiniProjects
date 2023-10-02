@@ -1,6 +1,10 @@
 # MiniProjects
 This repo contains MiniProjects that I created, when I was learning WebDev....
 
+SignUp Page:
+
+![Screenshot (48)](https://github.com/musabrayan/MiniProjects/assets/109735301/ed09996c-e7aa-4cda-a96c-e14e51468cff)
+
 
 Gallery Page:
 
