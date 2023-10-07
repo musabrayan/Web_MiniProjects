@@ -16,11 +16,18 @@ I learned basic properties of CSS while creating this page.
 
 Gsap Animating Landing Page:
 While creating this landing page I learned how to animate a website using Gsap Library.
-https://github.com/musabrayan/MiniProjects/assets/109735301/d7be318a-9def-419b-a2b1-4b8a0c1e03ef
+
+https://github.com/musabrayan/MiniProjects/assets/109735301/4786a42c-84ae-4344-80ad-c0eb8c72a1a6
+
+
 
 
 
 Sidcup Famil Golf Landing Page Clone:
-This website is created using gsap and Scroll Trigger.
-https://github.com/musabrayan/MiniProjects/assets/109735301/fbefa132-9d5d-44b9-a38d-c26d235268bc
+This website is created using Gsap Library and Scroll Trigger.
+
+
+https://github.com/musabrayan/MiniProjects/assets/109735301/a3b98167-64a5-4c59-859a-714079fb07af
+
+
 
