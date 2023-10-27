@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family: 'gilroy';
 }
 
 html,body{
@@ -20,6 +21,7 @@ html,body{
     background-color: black;
 }
 #top{
+    pointer-events: none;
     position: absolute;
     top: 0;
     left: 0;
@@ -30,6 +32,7 @@ html,body{
 
 #workingarea{
     margin: 0 auto;
+    position: relative;
     width: 80%;
     height: 100vh;
     max-width: 1920px;
@@ -52,6 +55,7 @@ html,body{
     gap: 40px;
 }
 #nav a{
+    pointer-events: all;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 15px;
@@ -59,4 +63,71 @@ html,body{
     /* letter-spacing: 1px; */
     color: #fff;
     font-family: 'gilroy';
+}
+
+#hero{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0%,-250%);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    /* background-color: red; */
+}
+#heroleft{
+    min-width: 50%;
+    /* height: 100px; */
+    /* background-color: yellow; */
+}
+#heroleft .elem {
+    height: 9vw;
+    overflow: hidden;
+    /* background-color: red; */
+}
+
+#heroleft .elem h1{
+    line-height: 1;
+    font-family: 'kajiro';
+    color: white;
+    font-weight: 100;
+    font-size: 11vw;
+}
+#heroleft button{
+    pointer-events: all;
+    padding: .8vw  2vw;
+    font-size: 2vw;
+    margin-top: 2vw;
+    font-family: 'kajiro';
+}
+
+#heroright{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    height: 800px;
+    width: 25%;
+    /* height: 100px; */
+    color: white;
+    /* background-color: green; */
+}
+
+#heroright p{
+    text-align: right;
+    font-size: 18px;
+    font-weight: 300;
+}
+#imagediv{
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    /* background-color: red; */
+    background-image: url(https://images.unsplash.com/photo-1527203561188-dae1bc1a417f?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHBvcnRyYWl0fGVufDB8fDB8fHww);
+    background-position: center;
+    background-size: cover;
+}
+#heroright p:nth-child(3){
+    margin-bottom: 80px;
 }
