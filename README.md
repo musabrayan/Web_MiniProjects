@@ -35,8 +35,6 @@ This website is created using Sheryjs Library.
 
 
 
-Uploading Modern Website - Google Chrome 2023-10-28 18-15-50.mp4…
-
 
 
 
