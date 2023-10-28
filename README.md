@@ -30,6 +30,13 @@ This website is created using Gsap Library and Scroll Trigger.
 
 https://github.com/musabrayan/Web_MiniProjects/assets/109735301/62c9bc4a-d70f-4fe5-b03b-12d6709e2561
 
+Modern Landing Page:
+This website is created using Sheryjs Library.
+
+
+
+Uploading Modern Website - Google Chrome 2023-10-28 18-15-50.mp4…
+
 
 
 
